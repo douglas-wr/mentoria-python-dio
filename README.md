@@ -38,3 +38,4 @@ Para mais informações sobre as tecnologias utilizadas neste projeto, consulte 
 - **pip**: [Documentação de Instalação](https://pip.pypa.io/en/stable/installation/)
 - **SQLAlchemy**: [Documentação Oficial](https://docs.sqlalchemy.org/)
 - **Alembic**: [Documentação Oficial](https://alembic.sqlalchemy.org/)
+- **Extensão SQLite Viewer**: [SQLite Viewer](https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer)
